@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o CaioACC 👋</h1>
-  <p><strong>Desenvolvedor de Sistemas em Formação | SENAI Americana - SP</strong></p>
+  <p><strong>Estagiário na Goodyear | Desenvolvedor de Sistemas em Formação (SENAI Americana - SP)</strong></p>
   <p>Focado em criar soluções web modernas, automações eficientes e exploração prática de Inteligência Artificial.</p>
 
   <!-- Badges de Contato -->
@@ -16,10 +16,10 @@
 
 ### 🚀 Sobre Mim
 
+- 💼 **Estagiário na Goodyear**, aplicando aprendizado contínuo no ambiente corporativo e industrial.
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI (Americana - SP)**.
-- 💻 Gosto de construir a parte visual (**Front-end**) integrando com regras de negócio sólidas (**Back-end**).
 - 🤖 Entusiasta de **Inteligência Artificial**, testes de modelos e criação de **automações**.
-- 🎯 **Objetivo:** Aprimorar constantemente minha lógica de programação, boas práticas de código e ingressar no mercado de tecnologia.
+- 🎯 **Objetivo:** Aprimorar constantemente minha lógica de programação, boas práticas de código e gerar impacto positivo em projetos reais.
 
 ---
 
