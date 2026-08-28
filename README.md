@@ -53,12 +53,15 @@
 
 ---
 
-### 📊 Atividades & Estatísticas
+### 📊 Painel de Atividades & Aprendizado
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CaioCaminoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCaminoto&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
+| Área de Foco | Principais Práticas | Ferramentas / Tecnologias | Status Atual |
+| :--- | :--- | :--- | :---: |
+| **Desenvolvimento Web** | Estruturação de páginas, lógica e integração | `HTML5`, `CSS3`, `PHP` | 🟢 Em prática |
+| **Bancos de Dados** | Modelagem relacional e consultas | `PostgreSQL` | 🟡 Em estudo |
+| **Lógica & Automação** | Algoritmos, automações com IA e scripts | `Python`, `JavaScript`, `APIs de IA` | 🟢 Em prática |
+| **Controle de Versão** | Criação de commits, branches e organização de repositórios | `Git`, `GitHub` | 🟢 Ativo |
+| **Experiência Corporativa** | Aprendizado contínuo e rotinas técnicas na Goodyear | `Goodyear`, `SENAI Americana` | 🟢 Em andamento |
 
 ---
 
