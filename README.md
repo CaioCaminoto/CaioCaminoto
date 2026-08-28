@@ -52,8 +52,6 @@
 
 ```text
 Atualmente desenvolvendo estruturas web no SENAI, integrando lógica com PHP/HTML no VsCode.
-
----
 ```
 
 
