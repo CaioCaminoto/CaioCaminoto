@@ -53,14 +53,22 @@
 
 ---
 
+### 📊 Atividades & Contribuições
+
+<div align="center">
+  <!-- Gráfico de Contribuições estilo Snake -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioCaminoto&theme=tokyo-night&hide_border=false&area=true" width="100%" alt="Gráfico de Atividades Caio Araújo" />
+  
+  <br><br>
+
+  <!-- Cartões de Estatísticas e Streak de Commits -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioCaminoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioCaminoto&theme=tokyonight&hide_border=false" />
+</div>
+
+---
+
 ### 📌 Jornada & Projetos em Andamento
 
 ```text
 Atualmente desenvolvendo estruturas web no SENAI, integrando lógica com PHP/HTML no VsCode e modelagem em PostgreSQL.
-```
-
----
-
-<div align="center">
-  <i>"Só é tarde para quem não faz."</i>
-</div>
