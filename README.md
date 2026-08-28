@@ -1,16 +1,7 @@
 <div align="center">
   <h1>Olá, eu sou o Caio Araújo 👋</h1>
   <p><strong>Estagiário na Goodyear | Desenvolvedor de Sistemas em Formação (SENAI Americana - SP)</strong></p>
-
-  <!-- Pinguim Linux animado -->
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60px" alt="Tux Walking" />
-  <br>
-
-  <!-- Animação estilo Terminal Linux -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=sudo+apt+get+install+knowledge;echo+%22Construindo+o+futuro+com+c%C3%B3digo%22;Web+Dev+%7C+IA+%7C+Automa%C3%A7%C3%B5es;chmod+%2Bx+meu_futuro.sh" alt="Typing SVG" />
-  </a>
-  <br><br>
+  <p>Focado em criar soluções web modernas, automações eficientes e exploração prática de Inteligência Artificial.</p>
 
   <!-- Badges de Contato -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caioaccorrea@gmail.com" target="_blank">
@@ -28,7 +19,6 @@
 - 💼 **Estagiário na Goodyear**, aplicando aprendizado contínuo no ambiente corporativo e industrial.
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI (Americana - SP)**.
 - 🤖 Entusiasta de **Inteligência Artificial**, testes de modelos e criação de **automações**.
-- 🐧 Fã do ecossistema **Linux**, linhas de comando e personalização de ambientes.
 - 🎯 **Objetivo:** Aprimorar constantemente minha lógica de programação, boas práticas de código e gerar impacto positivo em projetos reais.
 
 ---
@@ -51,9 +41,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-**Sistemas, Ferramentas & IA:**
+**Ferramentas, Versionamento & IA:**
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
