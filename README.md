@@ -51,5 +51,4 @@
 ### 📌 Jornada & Projetos em Andamento
 
 ```text
-Atualmente desenvolvendo estruturas web no SENAI, integrando lógica com PHP/Python
-e criando scripts de automação com ferramentas de IA.
+Atualmente desenvolvendo estruturas web no SENAI, integrando lógica com PHP/HTML no VsCode.
