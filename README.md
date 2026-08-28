@@ -2,12 +2,9 @@
   <h1>Olá, eu sou o Caio Araújo 👋</h1>
   <p><strong>Estagiário na Goodyear | Desenvolvedor de Sistemas em Formação (SENAI Americana - SP)</strong></p>
 
-  <!-- Pinguim do Linux animado andando -->
-  <div>
-    <marquee behavior="alternate" direction="right" scrollamount="4" width="280">
-      <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tux.gif" width="38px" alt="Tux Linux Walking" />
-    </marquee>
-  </div>
+  <!-- Pinguim Linux animado -->
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60px" alt="Tux Walking" />
+  <br>
 
   <!-- Animação estilo Terminal Linux -->
   <a href="https://git.io/typing-svg">
