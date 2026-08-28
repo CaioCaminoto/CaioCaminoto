@@ -53,6 +53,14 @@
 
 ---
 
+### 📌 Jornada & Projetos em Andamento
+
+```text
+Atualmente desenvolvendo estruturas web no SENAI, integrando lógica com PHP/HTML no VsCode e modelagem em PostgreSQL.
+```
+
+---
+
 ### 📈 Painel de Contribuições & Frequência
 
 <div align="center">
@@ -69,7 +77,7 @@
 
 ---
 
-### 📌 Jornada & Projetos em Andamento
+<div align="center">
+  <i>"Só é tarde para quem não faz." 🚀</i>
+</div>
 
-```text
-Atualmente desenvolvendo estruturas web no SENAI, integrando lógica com PHP/HTML no VsCode e modelagem em PostgreSQL.
