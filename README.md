@@ -53,15 +53,19 @@
 
 ---
 
-### 📊 Painel de Atividades & Aprendizado
+### 📈 Painel de Contribuições & Frequência
 
-| Área de Foco | Principais Práticas | Ferramentas / Tecnologias | Status Atual |
-| :--- | :--- | :--- | :---: |
-| **Desenvolvimento Web** | Estruturação de páginas, lógica e integração | `HTML5`, `CSS3`, `PHP` | 🟢 Em prática |
-| **Bancos de Dados** | Modelagem relacional e consultas | `PostgreSQL` | 🟡 Em estudo |
-| **Lógica & Automação** | Algoritmos, automações com IA e scripts | `Python`, `JavaScript`, `APIs de IA` | 🟢 Em prática |
-| **Controle de Versão** | Criação de commits, branches e organização de repositórios | `Git`, `GitHub` | 🟢 Ativo |
-| **Experiência Corporativa** | Aprendizado contínuo e rotinas técnicas na Goodyear | `Goodyear`, `SENAI Americana` | 🟢 Em andamento |
+<div align="center">
+  <!-- Calendário completo de Contribuições (Quadradinhos de Commits) -->
+  <img src="https://ghchart.rshah.org/216e39/CaioCaminoto" alt="Gráfico de Contribuições CaioCaminoto" width="100%" />
+  
+  <br><br>
+
+  <!-- Cartão de Frequência de Commits por Dia/Horário -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioCaminoto&theme=tokyonight" alt="Detalhes de Contribuições" width="49%" />
+  <!-- Cartão de Contribuições por Repositório e Linguagens -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaioCaminoto&theme=tokyonight" alt="Linguagens por Repositório" width="49%" />
+</div>
 
 ---
 
