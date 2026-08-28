@@ -54,6 +54,8 @@
 Atualmente desenvolvendo estruturas web no SENAI, integrando lógica com PHP/HTML no VsCode.
 
 ---
+```
+
 
 <div align="center">
   <i>"Só é tarde para quem não faz." </i>
