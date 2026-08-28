@@ -57,6 +57,6 @@ Atualmente desenvolvendo estruturas web no SENAI, integrando lógica com PHP/HTM
 ```
 
 
-<div>
-  <i>"Só é tarde para quem não faz." </i>
+<div align="center">
+  <i>Só é tarde para quem não faz.</i>
 </div>
