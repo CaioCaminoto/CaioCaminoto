@@ -4,7 +4,7 @@
   <p>Focado em criar soluções web modernas, automações eficientes e exploração prática de Inteligência Artificial.</p>
 
   <!-- Badges de Contato -->
-  <a href="mailto:caioaccorrea@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caioaccorrea@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/caio-araujo-a66681410/" target="_blank">
