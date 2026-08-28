@@ -53,17 +53,11 @@
 
 ---
 
-### 📊 Atividades & Contribuições
+### 📊 Atividades & Estatísticas
 
 <div align="center">
-  <!-- Gráfico de Contribuições estilo Snake -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioCaminoto&theme=tokyo-night&hide_border=false&area=true" width="100%" alt="Gráfico de Atividades Caio Araújo" />
-  
-  <br><br>
-
-  <!-- Cartões de Estatísticas e Streak de Commits -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioCaminoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioCaminoto&theme=tokyonight&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CaioCaminoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas GitHub" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCaminoto&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 ---
