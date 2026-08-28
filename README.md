@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o CaioACC 👋</h1>
+  <h1>Olá, eu sou o Caio Araújo 👋</h1>
   <p><strong>Estagiário na Goodyear | Desenvolvedor de Sistemas em Formação (SENAI Americana - SP)</strong></p>
   <p>Focado em criar soluções web modernas, automações eficientes e exploração prática de Inteligência Artificial.</p>
 
@@ -52,3 +52,9 @@
 
 ```text
 Atualmente desenvolvendo estruturas web no SENAI, integrando lógica com PHP/HTML no VsCode.
+
+---
+
+<div align="center">
+  <i>"Só é tarde para quem não faz." </i>
+</div>
