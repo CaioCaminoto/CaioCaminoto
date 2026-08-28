@@ -77,5 +77,5 @@ Atualmente desenvolvendo estruturas web no SENAI, integrando lógica com PHP/HTM
 ---
 
 <div align="center">
-  <i>"Só é tarde para quem não faz." 🚀</i>
+  <i>"Só é tarde para quem não faz."</i>
 </div>
