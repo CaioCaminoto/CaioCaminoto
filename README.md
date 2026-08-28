@@ -57,3 +57,25 @@
 
 ```text
 Atualmente desenvolvendo estruturas web no SENAI, integrando lógica com PHP/HTML no VsCode e modelagem em PostgreSQL.
+```
+---
+
+### 📈 Painel de Contribuições & Frequência
+
+<div align="center">
+  <!-- Calendário completo de Contribuições (Quadradinhos de Commits) -->
+  <img src="https://ghchart.rshah.org/216e39/CaioCaminoto" alt="Gráfico de Contribuições CaioCaminoto" width="100%" />
+  
+  <br><br>
+
+  <!-- Cartão de Frequência de Commits por Dia/Horário -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioCaminoto&theme=tokyonight" alt="Detalhes de Contribuições" width="49%" />
+  <!-- Cartão de Contribuições por Repositório e Linguagens -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaioCaminoto&theme=tokyonight" alt="Linguagens por Repositório" width="49%" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Só é tarde para quem não faz." 🚀</i>
+</div>
